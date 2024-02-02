@@ -1,5 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning React
+👨🏻‍💻 I'm fresher dotnet dev.
+🥰 I'm trying to get better every day.
+👉🏻 I have 7 months of experience as a backend developer use structure Service layer
+👉🏻 I'm ready to work and develop
 <!--
 **4501104141/4501104141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
