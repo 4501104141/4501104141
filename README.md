@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨🏻‍💻 I'm fresher dotnet dev.
+- 👨🏻‍💻 I'm dotnet dev.
 - 🥰 I'm trying to get better every day.
 - 👉🏻 I have 7 months of experience as a backend developer use structure Service layer
 - 👉🏻 I'm ready to work and develop
