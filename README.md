@@ -1,10 +1,7 @@
 ### Hi there 👋
-- 👨🏻‍💻 I'm dotnet dev.
+- 👨🏻‍💻 I'm backend dev.
 - 🥰 I'm trying to get better every day.
-- 👉🏻 I have 7 months of experience as a backend developer use structure Service layer
-- 👉🏻 I'm ready to work and develop
-- I'm coding in project [dev.azure.com/4501104141](https://dev.azure.com/4501104141/KnowledgeSpace). So I'm reducing activity my github and switching to azure.
-<!--
+- 👉🏻 I’m currently working on STVG.vn
 **4501104141/4501104141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
