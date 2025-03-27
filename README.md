@@ -1,5 +1,4 @@
-<img src="https://preview.redd.it/thj41ymmh0351.gif?width=1041&format=mp4&s=769877efa19121622ee3ebad60829a31c80e4e3a" alt="banner" />
-
+![banner](https://github.com/4501104141/4501104141/blob/main/girl.gif)
 # Hi 👋, I'm Đinh Nhật Minh  
 ### A passionate backend developer from Vietnam  
 
