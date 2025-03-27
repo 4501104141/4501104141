@@ -1,4 +1,6 @@
-![banner](https://github.com/4501104141/4501104141/blob/main/girl.gif)
+<div align="center">
+    <img src="https://github.com/4501104141/4501104141/blob/main/girl.gif" width="100%" />
+</div>
 # Hi 👋, I'm Đinh Nhật Minh  
 ### A passionate backend developer from Vietnam  
 
